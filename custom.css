@@ -1,0 +1,49 @@
+
+/* .card-img-top {
+
+} */
+
+/* CONTACT US FORM */
+#Name, #Email {
+    width: 50%;
+}
+
+textarea {
+    max-width: 50%;
+}
+
+.center-button {
+    width: 33%;
+}
+
+.center-button button {
+    float: right;
+}
+
+/* button.contact.submit:hover {
+    background: ;
+}
+button.contact.submit {
+    background: #333;
+    color: #fff;
+    font-size: 1em;
+    font-weight: 400;
+    text-align: center;
+    margin: 0;
+    border: none!important;
+    border-radius: 3px;
+    padding: 10px 20px;
+}  */
+.done {
+    display: none;
+}
+
+.footer {
+    background: #bdbdbd;
+    margin-top: 40px;
+    position: relative;
+}
+
+.footer .container {
+    padding: 20px 0 5px;
+}
